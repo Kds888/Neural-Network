@@ -14,5 +14,8 @@ In this I have added a hidden layer and it is giving out two outputs neurons as 
 In this I am trying to predict the number using the images data and given labels of the data and I am defining 2 hidden layers in between and I am using matrixes for multiplication as they are faster. We have 10 output vectors basically that correspond to each didgit in the dataset that ranges from 0 to 9.
 And I have 10 hidden layers as well.
 
+    UNIVERSAL APPROXIMATION THEORM
+In this I am trying to approximate the neural network universal approximation theorm which states with suffiecient number of neurons in the hidden layer we can approximate any continious function. I am using the prebuild neuron here by using keras dense layer. This is created in seprate file.
+
 
     
